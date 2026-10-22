@@ -1,7 +1,8 @@
 # Parkhaus mit Schranken – M450 INA24-B
 
 Umsetzung des Parksystems (Auftrag A01-03) mit zwei Raspberry Pi Pico W und dem Arduino-Framework.
-Grundlage sind die User Stories aus dem Dokument *Anforderungen Parksystem* (Auftrag A01-01-02).
+Grundlage sind die User Stories aus dem Dokument [Anforderungen Parksystem](docs/Anforderungen-Parksystem.pdf) (Auftrag A01-01-02).
+Getestet wird nach dem [Testkonzept](docs/Testkonzept-Parksystem.pdf) (Auftrag A01-10).
 
 ## Gruppenmitglieder
 
